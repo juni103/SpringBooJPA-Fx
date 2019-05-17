@@ -1,2 +1,2 @@
-# SpringBoot-JPA-Fx-CRUD
-Simple CRUD Operations Using SpringBoot JPA in JavaFx
+# SpringBootJPA-Fx
+Simple CRUD Operations Using SpringBoot JPA on mapped entites in JavaFx
